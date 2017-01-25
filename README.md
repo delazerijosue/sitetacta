@@ -1,1 +1,1 @@
-sitetacta.github.com
+sitetacta.github.io
